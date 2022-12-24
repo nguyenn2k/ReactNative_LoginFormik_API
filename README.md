@@ -1,5 +1,4 @@
 # ReactNative_LoginFormik_API
-Create Login Screen with Redux Thunk, Toolkit and Formik
 
 Login Screen:
 ![LoginScreen](https://user-images.githubusercontent.com/96371866/209419569-6c73ed8f-7a73-4bac-9590-bb9cd46f63a1.png)
